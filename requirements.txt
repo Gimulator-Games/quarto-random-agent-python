@@ -1,6 +1,6 @@
 certifi==2020.4.5.2
 chardet==3.0.4
--e git://github.com/Gimulator/client-python.git@ce4d2152ee493993374d5a1a9611ffcefb5d035a#egg=gimulator_client
+-e git://github.com/Gimulator/client-python.git@55f80c5461c679f96820eb5ab678c7ad102fd40d#egg=gimulator_client
 idna==2.9
 requests==2.23.0
 six==1.15.0

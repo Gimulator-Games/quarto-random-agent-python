@@ -5,7 +5,7 @@ import time
 
 from client import Client, Key, Object
 
-NAME = os.getenv('AGENT_NAME')
+NAME = 'random-agent-python'
 KEY_REGISTER = Key('register', NAME, 'quarto')
 KEY_BOARD = Key('verdict', 'board', 'quarto')
 KEY_ACTION = Key('action', NAME, 'quarto')
